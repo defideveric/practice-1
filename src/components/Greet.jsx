@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 
 const Greet = (props) => {
     console.log(props)
